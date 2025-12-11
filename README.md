@@ -70,7 +70,7 @@ SDL2.dll (2.67MB，负责播放，与本库解耦)
 
 ## 🏰 关于作者与项目脉络
 
-**DVS** - 一个10岁的中国全栈开发者。
+**DVS** - 
 
 - **主站**：[DVS云盘 dvsyun.top](https://dvsyun.top)
 - **邮箱**：`me@dvsyun.top` (所有邮件都会看，但回复看心情)
@@ -156,7 +156,7 @@ SDL2.dll (2.67MB, handles playback, decoupled from this lib)
 
 ## 🏰 About The Author & Project Context
 
-**DVS** - A 10-year-old Chinese full-stack developer.
+**DVS** -
 
 - **Website**: [DVS Cloud Disk dvsyun.top](https://dvsyun.top)
 - **Email**: `me@dvsyun.top` (Read all emails, reply depending on mood)
